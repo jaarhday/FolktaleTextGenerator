@@ -4,7 +4,7 @@ For this project, I developed a text generator trained on worldwide folktales. T
 
 The purpose of writing this software was to explore the capabilities of recurrent neural networks in generating coherent and contextually relevant text. By training the model on a diverse set of folktales, I aimed to create a text generator that could capture the essence of storytelling across different cultures.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/bc5b03e58e22451ea8c47c38181bbb03?sid=dcd28e86-9831-450e-9575-10a7afae24ed)
 
 # Development Environment
 
